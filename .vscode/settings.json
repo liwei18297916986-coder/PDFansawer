@@ -1,0 +1,6 @@
+{
+    "kiroAgent.modelSelection": "",
+    "kiroAgent.trustedCommands": [
+        "*"
+    ]
+}
